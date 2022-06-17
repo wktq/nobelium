@@ -2,10 +2,10 @@ const BLOG = {
   title: 'なんかつくるひとのブログ',
   author: 'わくてか',
   email: 'wktq@hitobase.io',
-  link: 'https://nobelium.vercel.app',
+  link: 'https://wktq.vercel.app',
   description: 'by wktq',
-  lang: 'ja-JP', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
-  appearance: 'dark', // ['light', 'dark', 'auto'],
+  lang: 'ja-JP',
+  appearance: 'light', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#18181B', // use hex value, don't forget '#'
