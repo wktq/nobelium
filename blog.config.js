@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'なんかつくるひとのログ',
+  title: 'wktq logs --tail',
   author: 'わくてか',
   email: 'wktq@hitobase.io',
   link: 'https://wktq.me',
-  description: 'カフェとバーとプロダクトをつくるひとのメモ',
+  description: 'カフェとプロダクトと3Dをつくるひとのログ',
   lang: 'ja-JP',
   appearance: 'light', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
